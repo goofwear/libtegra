@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["REGISTERS","A pointer to the CAR register block that can be accessed by dereferencing it."]],"struct":[["Clock","Representation of a device clock."],["Registers","Representation of the CAR registers."]]});
